@@ -18,3 +18,6 @@ if quality = "Low":
   
 else:
   print("Incorrect choose!")
+
+  
+output.download()
